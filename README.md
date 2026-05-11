@@ -2,18 +2,18 @@
 
 Um projeto simples e poderoso para criar páginas web personalizadas usando Inteligência Artificial. Descreva seu negócio e veja a IA gerar um site profissional em segundos!
 
-## 🚀 Demonstração
+## Demonstração
 
 Acesse a versão online: [DevClub Site Generator](https://iurimontarroyos.github.io/declub-estudo-gera-oIA/)
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - **Geração Rápida**: Descreva seu negócio e obtenha um site completo
 - **Interface Intuitiva**: Design moderno e fácil de usar
 - **Preview Instantâneo**: Visualize o resultado em tempo real
 - **Código Limpo**: HTML e CSS otimizados gerados automaticamente
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura das páginas
 - **CSS3**: Estilização moderna e responsiva
@@ -21,7 +21,7 @@ Acesse a versão online: [DevClub Site Generator](https://iurimontarroyos.github
 - **Groq API**: Poderosa IA para geração de conteúdo
 - **Google Fonts**: Tipografia profissional (Inter)
 
-## 📖 Como Usar
+## Como Usar
 
 ### Localmente
 1. Clone o repositório:
@@ -47,7 +47,7 @@ Acesse a versão online: [DevClub Site Generator](https://iurimontarroyos.github
 - Acesse o link da demonstração acima
 - Use diretamente no navegador (configure a chave se necessário)
 
-## 🔧 Configuração da API
+## Configuração da API
 
 Para usar a funcionalidade de geração de sites, você precisa de uma chave da API Groq:
 
@@ -55,7 +55,7 @@ Para usar a funcionalidade de geração de sites, você precisa de uma chave da 
 2. Crie uma conta e obtenha sua chave API
 3. Configure no arquivo `scripts.js` ou use um arquivo `.env` (recomendado para segurança)
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 declub-estudo-gera-oIA/
@@ -66,15 +66,13 @@ declub-estudo-gera-oIA/
 └── README.md           # Este arquivo
 ```
 
-## 🎯 Futuras Edições e Melhorias
+## Futuras Edições e Melhorias
 
 ### Planejado para Próximas Versões:
 - [ ] **Backend Seguro**: Implementar servidor Node.js para proteger chaves API
 - [ ] **Mais Modelos de IA**: Suporte a outras APIs (OpenAI, Anthropic)
 - [ ] **Templates Personalizados**: Diferentes estilos de site (landing page, e-commerce, blog)
-- [ ] **Exportação**: Baixar o código gerado como arquivo ZIP
 - [ ] **Histórico**: Salvar gerações anteriores
-- [ ] **Responsividade**: Melhorar design para dispositivos móveis
 - [ ] **SEO Otimizado**: Metadados e estrutura otimizada para motores de busca
 - [ ] **Multilíngue**: Suporte a outros idiomas
 - [ ] **Integração com CMS**: Conectar com plataformas como WordPress
@@ -87,7 +85,7 @@ declub-estudo-gera-oIA/
 - [ ] **Docker**: Containerização para fácil deployment
 - [ ] **PWA**: Transformar em Progressive Web App
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 1. Fork o projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
@@ -95,21 +93,17 @@ declub-estudo-gera-oIA/
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 - [DevClub](https://devclub.com.br/) pela inspiração e aprendizado
 - [Groq](https://groq.com/) pela API de IA poderosa
 - [Google Fonts](https://fonts.google.com/) pela tipografia Inter
 
-## 📞 Contato
+##  Contato
 
 - **GitHub**: [IuriMontarroyos](https://github.com/IuriMontarroyos)
-- **LinkedIn**: [Seu LinkedIn]
-
----
-
-⭐ Se este projeto te ajudou, dê uma estrela no repositório!
+- **LinkedIn**: [Iuri Montarroyo](www.linkedin.com/in/iuri-montarroyos)
